@@ -2,7 +2,7 @@
 - 👀 I’m interested in React, JavaScript, Java, Html
 - 🌱 I’m currently learning ReactjS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Email: gayastro79@gmail.com
+- 📫 Reach me ... Email: gayastro79@gmail.com
 
 <!---
 Gayastro/Gayastro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
